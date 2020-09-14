@@ -3,6 +3,7 @@
 #### http://datos.salud.gob.ar/dataset/covid-19-casos-registrados-en-la-republica-argentina
 #### y como es muy pesada selecciono los casos confirmados y sospechosos de CABA
 #####y los guardo  en un archivo ###########
+#Esta linea es un prueba
 
 setwd("~/backupOct2019/COVID19/DIAGRAMAS_DE_RIESGO/PaisDatosMinSal/")
 library(tidyverse)
